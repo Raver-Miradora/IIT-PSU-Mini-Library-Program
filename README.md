@@ -4,7 +4,7 @@ A Mini Library Program that will allow the user to manage the records of the boo
 Created in acccordance with our activity in CC3-Computer Programming 2.
 
 ## Compile
-g++ Crud.cpp
+g++ IIT-Mini_Library.cpp
 
 ## Run
 ./a.out
